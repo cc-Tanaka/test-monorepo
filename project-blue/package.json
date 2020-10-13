@@ -1,0 +1,8 @@
+{
+  "name": "project-blue",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "bundle exec jekyll s"
+  }
+}
