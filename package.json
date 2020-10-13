@@ -1,0 +1,10 @@
+{
+  "name": "test-monorepo",
+  "version": "1.0.0",
+  "author": "cc-Tanaka <tanaka-ryo@colorfulcompany.co.jp>",
+  "license": "MIT",
+  "scripts": {
+    "build:project-red": "bundle exec",
+    "build:project-blue": "bundle exec"
+  }
+}
