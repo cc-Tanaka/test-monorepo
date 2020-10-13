@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "dev": "bundle exec jekyll s"
+    "dev": "bundle exec jekyll s",
+    "build": "bundle exec jekyll build"
   }
 }
