@@ -4,7 +4,7 @@
   "author": "cc-Tanaka <tanaka-ryo@colorfulcompany.co.jp>",
   "license": "MIT",
   "scripts": {
-    "build:project-red": "bundle exec jekyll build",
-    "build:project-blue": "bundle exec jekyll build"
+    "build:project-red": "bundle exec jekyll build -s project-red",
+    "build:project-blue": "bundle exec jekyll build -s project-blue"
   }
 }
