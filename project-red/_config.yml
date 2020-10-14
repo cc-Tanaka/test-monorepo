@@ -1,2 +1,5 @@
 source: source
 encoding: utf-8
+
+plugins:
+  - jekyll-assets

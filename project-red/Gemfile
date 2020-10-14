@@ -1,4 +1,9 @@
 source "https://rubygems.org"
 
 ruby '2.6.5'
-gem "jekyll", '~> 3.8.6'
+gem "jekyll", '3.9.0'
+gem "sprockets", '3.7.2'
+
+group :jekyll_plugin do
+  gem 'jekyll-assets', '3.0.12'
+end
